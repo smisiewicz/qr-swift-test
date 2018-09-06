@@ -1,0 +1,3 @@
+
+github "smisiewicz/QRCodeReader.swift" >= 8.2.0
+github "smisiewicz/EFQRCode" ~> 4.2.2
